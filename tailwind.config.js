@@ -34,7 +34,7 @@ export default {
         footerColor: "#5B5E7E",
       },
       backgroundImage: {
-        "light-bg-image": "url(./src/assets/bg-mobile-light.jpg)",
+        lightBgImage: "url(./src/assets/bg-mobile-light.jpg)",
         "light-bg-image-desk": "url(./src/assets/bg-desktop-light.jpg)",
         "dark-bg-image": "url(./src/assets/bg-mobile-dark.jpg)",
         "dark-bg-image-desk": "url(./src/assets/bg-desktop-dark.jpg)",
